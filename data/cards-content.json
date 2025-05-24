@@ -1,0 +1,66 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Websites",
+      "icon": "Code",
+      "gradient": "from-pink-500 to-blue-500"
+    },
+    {
+      "id": 2,
+      "title": "Web Apps",
+      "icon": "Smartphone",
+      "gradient": "from-purple-500 to-cyan-500"
+    },
+    {
+      "id": 3,
+      "title": "Design",
+      "icon": "Palette",
+      "gradient": "from-orange-500 to-red-500"
+    },
+    {
+      "id": 4,
+      "title": "Analytics",
+      "icon": "BarChart3",
+      "gradient": "from-green-500 to-teal-500"
+    },
+    {
+      "id": 5,
+      "title": "Performance",
+      "icon": "Zap",
+      "gradient": "from-yellow-500 to-orange-500"
+    }
+  ],
+  "content": [
+    {
+      "id": 1,
+      "title": "Custom Websites",
+      "description": "Craft stunning, responsive websites that captivate your audience. Our expert team delivers pixel-perfect designs with seamless user experiences that drive conversions and establish your digital presence.",
+      "features": ["Responsive Design", "SEO Optimized", "Fast Loading", "Modern UI/UX"]
+    },
+    {
+      "id": 2,
+      "title": "Progressive Web Applications",
+      "description": "Build future-proof web apps with cutting-edge technology. Our end-to-end development expertise creates scalable, agile solutions that maximize your ROI and deliver blazing-fast performance.",
+      "features": ["Scalable Architecture", "Cross-Platform", "Offline Support", "Native Feel"]
+    },
+    {
+      "id": 3,
+      "title": "Creative Design Solutions",
+      "description": "Transform your brand with innovative design strategies. We create visually stunning interfaces that communicate your brand story effectively while ensuring optimal user engagement and satisfaction.",
+      "features": ["Brand Identity", "UI/UX Design", "Visual Strategy", "Creative Direction"]
+    },
+    {
+      "id": 4,
+      "title": "Data Analytics & Insights",
+      "description": "Unlock the power of data to drive informed decisions. Our analytics solutions provide deep insights into user behavior, performance metrics, and growth opportunities for your business.",
+      "features": ["Real-time Analytics", "Custom Dashboards", "Performance Tracking", "Data Visualization"]
+    },
+    {
+      "id": 5,
+      "title": "Performance Optimization",
+      "description": "Supercharge your digital presence with lightning-fast performance. We optimize every aspect of your applications to ensure maximum speed, efficiency, and user satisfaction across all devices.",
+      "features": ["Speed Optimization", "Core Web Vitals", "Mobile Performance", "Technical SEO"]
+    }
+  ]
+}
